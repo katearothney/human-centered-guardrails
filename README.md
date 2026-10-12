@@ -1,4 +1,6 @@
-# Human Guardrails
+# Human-Centered Guardrails
+
+*What AI might be costing us, and what helps.*
 
 > **What you'll get:** a graded grid (with a source link on every claim) of the human capacities AI may wear down, from thinking and memory to motivation and close relationships, plus two kinds of guardrails: habits that keep you sharp, and design limits for the technology itself.
 >
