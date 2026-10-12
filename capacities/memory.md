@@ -1,39 +1,48 @@
-# Memory & internalized knowledge
+# Memory and retention
 
 ## The capacity
-Knowing things. Not just being able to look them up, but holding facts, patterns, and experiences inside you, where they can connect, recombine, and become intuition and judgment. Internalized knowledge is what you think *with*. It is hard to have an insight about something you have to look up mid-thought.
+
+This is whether information actually passes through you and gets encoded, rather than living in a place you can look up. It's the difference between knowing a thing and knowing where to find it. When the encoding never happens, the knowledge isn't yours to reason with later.
 
 ## How AI can disrupt it
-- **Transactive memory / the "Google effect."** When we know a fact lives somewhere external, we remember the fact itself less and remember *where to find it* more. AI makes "somewhere external" instant and total. (Sparrow, Liu & Wegner, 2011)
-- **Skipping encoding.** Memory forms through effortful engagement. In the MIT EEG study, people who wrote with ChatGPT "basically didn't integrate any of it into your memory networks," and recalled little of their own essays afterward. (Kosmyna et al., 2025, preprint)
-- **Disuse of a specific faculty.** Habitually offloading one capability can dull it. Heavy lifetime GPS use is associated with worse spatial memory and steeper decline in hippocampus-dependent navigation. (Dahmani & Bohbot, 2020)
+
+AI touches whether information passes through me at all. If the tool holds it, I might not.
+
+- **It offloads the storing.** When a tool remembers for me, I don't do the encoding, and encoding is what retrieval later depends on (cognitive offloading, Risko and Gilbert 2016).
+- **It replaces retrieval with lookup.** The effort of pulling something from memory is what strengthens it (retrieval practice and the testing effect, Roediger and Karpicke 2006). Asking the tool again skips that effort.
+- **It makes understanding feel like learning.** Following an explanation in the moment feels the same as having learned it, so I stop before the part that would have made it stick.
 
 ## What the evidence says
-- The Google effect is a real lab finding, but modest and with mixed replication. Suggestive, not settled. **Moderate.**
-- The MIT memory finding is striking but comes from a small, non-peer-reviewed preprint measuring one task. It shows weaker encoding *during AI-assisted work*, not permanent memory loss. **Preliminary.**
-- The GPS/hippocampus link is the closest "the brain follows use" signal, with a rare 3-year longitudinal component, but small and partly correlational. **Moderate.**
 
-Balanced view: external memory is not new. Writing, books, and phones all offload memory, usually for the better. The concern is specific: when we stop internalizing the things we actually want to think *with*, we may keep the index and lose the library.
+The cleanest evidence is the three-day delayed testing in Kreijkes et al. (2025). Comprehension at the time of use did not mean the material got encoded, and the groups that did more of the work themselves held onto more later. The nearest "the brain follows use" signal comes from navigation, heavier GPS use was linked to worse spatial memory and a steeper decline over three years (Dahmani and Bohbot 2020).
+
+One caution. Don't lean on the Google effect, the finding that we remember less when we expect to be able to look things up (Sparrow, Liu and Wegner 2011). It failed to replicate in the 2018 Social Sciences Replication Project. Desirable difficulties and retrieval practice carry this worry better and rest on firmer ground.
+
+So the mechanism is real and the delayed-retention evidence is decent, but the flagship offloading study did not replicate. Grade: Mixed.
+
+Who it hits hardest: learners.
 
 ## Guardrails
-Two kinds, and this project is exploring both.
 
-**1. Beyond technology** — things unrelated to tech that keep memory strong on their own.
-- Recall before you look it up; retrieval is what strengthens memory.
-- Memorize the handful of things you truly think *with*: core facts, frameworks, the people and stories that matter.
-- Keep a notebook or commonplace book; writing by hand aids encoding.
-- Space your reviews over days and weeks, and tell someone what you learned.
+Two kinds.
 
-**2. Enforced in technology** — limits and design built into the tools to protect memory.
-- "Recall first" and spaced retrieval built into learning tools, not answer-on-demand.
-- Separate "reference" use from "learning" use, and design them differently.
-- Let people flag what they want to remember versus merely retrieve.
-- At the system level: measure what learners can do *without* the tool, not just with it.
+**1. Beyond technology** - things unrelated to tech that keep the capacity strong on their own.
+- Try to recall it before you look it up.
+- Take notes by hand.
+- Space your review over days rather than cramming.
+- Teach it to someone, which forces retrieval.
+
+**2. Enforced in technology** - limits and design built into the tools.
+- Prompt for a recall-first attempt when you ask the same thing again.
+- Build spacing into learning products so review returns on a schedule.
+- Add note-taking nudges rather than just serving the answer.
 
 ## Open questions
-- Which knowledge is worth internalizing in an AI-rich world, and which is fine to offload?
-- Is lost internal knowledge reversible once you return to effortful learning?
-- The bigger worry: [Does AI harm your brain?](../deep-dives/does-ai-harm-your-brain.md)
+
+- How much of the delayed-retention gap is about AI specifically versus any tool that removes effort?
+- Does the GPS-and-memory pattern generalize to knowledge work, or is spatial memory a special case?
+- Can a tool make recall-first the path of least resistance instead of an extra step people skip?
 
 ## Sources
-See [SOURCES.md](../SOURCES.md#memory--internalized-knowledge). Key: Sparrow et al. (2011); Kosmyna et al. (2025, preprint); Dahmani & Bohbot (2020).
+
+See [SOURCES.md](../SOURCES.md). Key: Roediger and Karpicke 2006, Risko and Gilbert 2016, Kreijkes et al. 2025, Dahmani and Bohbot 2020, Sparrow, Liu and Wegner 2011.

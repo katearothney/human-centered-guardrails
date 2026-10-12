@@ -1,8 +1,12 @@
 # Human Guardrails
 
+> **What you'll get:** a graded grid (with a source link on every claim) of the human capacities AI may wear down, from thinking and memory to motivation and close relationships, plus two kinds of guardrails: habits that keep you sharp, and design limits for the technology itself.
+>
+> **Start with** [Effortful / critical thinking](capacities/effortful-thinking.md), the one written up in full. Evidence is rated per capacity, and several are still marked emerging or open.
+
 I keep coming back to one question: what is AI doing to the parts of being human that I actually care about? Things like thinking a problem through, remembering, paying attention, staying motivated, and staying close to the people in my life. And if some of that is getting worse, what can we do about it?
 
-This is me working that out in public. I'm not a neuroscientist and I don't have the answer. I read the research, I try to be straight about what it does and doesn't show, and mostly I care about the practical side: what actually helps.
+This is me working that out in public. I read the research, I try to be straight about what it does and doesn't show, and mostly I care about the practical side: what actually helps.
 
 I'm exploring two kinds of guardrails here.
 
@@ -113,3 +117,7 @@ I cite and grade every claim. I keep the counter-evidence in on purpose. I take 
 Want to add a capacity, poke holes in the evidence, bring a study, or suggest a guardrail? See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 Shared under CC BY 4.0. All of this is my own opinion and doesn't represent my employer.
+
+## Scope and caveats
+
+I'm not a neuroscientist and I don't have the answer. I read the research and try to be straight about what it does and doesn't show.
